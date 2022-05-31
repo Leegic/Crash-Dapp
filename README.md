@@ -26,13 +26,13 @@ Press Y if prompted to
 7. In terminal type,
 > npm install web3
 
-8. **If you have a M1 chip in your Mac, these instructions maybe helpful.**
-9. Run the App, again in terminal & expect errors to appear
-10. Press *control z* to kill the App
-11. In terminal type, 
+**If you have a M1 chip in your Mac, these instructions maybe helpful.**
+8. Run the App, again in terminal & expect errors to appear
+9. Press *control z* to kill the App
+10. In terminal type, 
 > npm uninstall react-scripts,
 
 Then Press Enter
 >  then  type npm i react-scripts@4.0.3
-12. After installing, run react app again with npm run start
-13. web3 is installed & imported properly
+11. After installing, run react app again with npm run start
+12. web3 is installed & imported properly
