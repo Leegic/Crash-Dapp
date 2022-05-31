@@ -1,7 +1,7 @@
 # Crash-Dapp
 Bandicoot
 
-##Instructions
+## Instructions
 
 1. 1st install & make a Metamask Wallet using chrome & firefox
 2. Download node
@@ -26,7 +26,7 @@ Press Y if prompted to
 7. In terminal type,
 > npm install web3
 
-8. ( If you have a M1 chip in your Mac, these instructions maybe helpful ).
+8. **If you have a M1 chip in your Mac, these instructions maybe helpful.**
 9. Run the App, again in terminal & expect errors to appear
 10. Press *control z* to kill the App
 11. In terminal type, 
