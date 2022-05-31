@@ -9,7 +9,7 @@ Instructions to:
  1st install & make a Metamask Wallet into your browser using Chrome or Firefox
  
  In terminal, type in
-..*brew install node
+ ..*brew install node
 
 **If you're using a Mac, be sure to use version **16.15.0**
 
