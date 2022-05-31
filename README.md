@@ -30,7 +30,7 @@ Press Y if prompted to
 8. Run the App, again in terminal & expect errors to appear
 9. Press *control z* to kill the App
 10. In terminal type, 
-> npm uninstall react-scripts,
+> npm uninstall react-scripts
 
 Then Press Enter
 >  then  type npm i react-scripts@4.0.3
